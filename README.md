@@ -6,5 +6,5 @@ Automated Compost Bin
 - Spinkler System
 - Heat Lamp
 
-# Purpose: 
+Purpose: 
 To promote composting and other environmentally friendly practices by making the process automated and simple. 
